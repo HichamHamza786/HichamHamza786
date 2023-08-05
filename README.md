@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover] (https://github.com/HichamHamza786/HichamHamza786/blob/main/img/TuxPP.jpg)
+<img src="https://myreadme.vercel.app/api/embed/HichamHamza786?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
